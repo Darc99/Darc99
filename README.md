@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ugochukwu Anyanwu</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 🌱 I’m currently learning **Web3 and React Native**
+- 🌱 I’m currently focused on **Backend Engineering**
 
 - 📫 How to reach me **lennyyhugoh@gmail.com**
 
